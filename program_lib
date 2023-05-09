@@ -1,0 +1,7 @@
+programs = {
+    'chrome': r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe',
+    'notepad': r'C:\Windows\System32\notepad.exe',
+    'calculator': r'C:\Windows\System32\calc.exe',
+    'lol': r'E:\League\Riot Games\Riot Client\RiotClientServices.exe',
+    
+}
